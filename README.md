@@ -153,6 +153,117 @@ Identifying design properties such as color, typography, spacing, and layout fro
 
 > In short, understanding and applying mockup design properties leads to a high-quality, predictable, and maintainable user interface.
 
- 
+ ## 👥 Project Roles and Responsibilities
+
+Building a full-stack AirBnB clone requires coordinated teamwork across various disciplines. Below are the key roles and how each contributes to the project’s success.
+
+---
+
+### 🧑‍💼 Project Manager (PM)
+
+**Responsibilities:**
+- Oversee the project timeline and deliverables
+- Coordinate communication between team members
+- Monitor progress and ensure goals are met
+- Resolve conflicts and remove blockers
+
+**Contribution:**
+Ensures the project stays on track, meets deadlines, and facilitates smooth collaboration across roles.
+
+---
+
+### 💻 Frontend Developers
+
+**Responsibilities:**
+- Build responsive and accessible UI components using HTML, CSS, and JavaScript (React)
+- Integrate APIs to display dynamic data
+- Implement design based on Figma specifications
+- Ensure a seamless user experience across devices
+
+**Contribution:**
+Delivers the user interface and core interaction experience for users.
+
+---
+
+### 🛠️ Backend Developers
+
+**Responsibilities:**
+- Design and build RESTful APIs for data handling (authentication, listings, bookings)
+- Set up and manage the database
+- Implement business logic and server-side validation
+- Ensure security and data consistency
+
+**Contribution:**
+Powers the application’s functionality behind the scenes, ensuring robust data flow and secure operations.
+
+---
+
+### 🎨 Designers (UI/UX)
+
+**Responsibilities:**
+- Create wireframes and high-fidelity mockups in Figma
+- Define typography, color palette, spacing, and design systems
+- Ensure usability and intuitive design flows
+- Provide design assets and style guides to developers
+
+**Contribution:**
+Shapes the visual identity and user experience of the application.
+
+---
+
+### 🧪 QA/Testers
+
+**Responsibilities:**
+- Write and execute test cases (unit, integration, UI tests)
+- Identify and report bugs or inconsistencies
+- Test for performance, usability, and responsiveness
+- Verify adherence to requirements before deployment
+
+**Contribution:**
+Guarantees a stable, bug-free user experience by validating functionality across all features.
+
+---
+
+### 🚀 DevOps Engineers
+
+**Responsibilities:**
+- Set up CI/CD pipelines for automatic deployment
+- Manage cloud infrastructure and hosting environments
+- Monitor uptime and performance
+- Handle environment variables and backend deployment
+
+**Contribution:**
+Enables continuous integration, deployment, and maintenance of the application in production.
+
+---
+
+### 📋 Product Owner
+
+**Responsibilities:**
+- Define user stories and functional requirements
+- Prioritize features based on business value
+- Provide ongoing feedback and validate progress
+- Act as a representative of stakeholder interests
+
+**Contribution:**
+Ensures that the application aligns with the needs of end users and business goals.
+
+---
+
+### 🧑‍🏫 Scrum Master
+
+**Responsibilities:**
+- Facilitate daily stand-ups, sprint planning, and retrospectives
+- Remove obstacles blocking team progress
+- Coach the team in agile best practices
+- Promote accountability and continuous improvement
+
+**Contribution:**
+Supports agile development, helping the team deliver value efficiently and consistently.
+
+---
+
+> 🤝 Success in this project depends on strong collaboration, clear communication, and ownership of responsibilities across all roles.
+
 
 > 
