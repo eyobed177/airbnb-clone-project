@@ -264,6 +264,71 @@ Supports agile development, helping the team deliver value efficiently and consi
 ---
 
 > 🤝 Success in this project depends on strong collaboration, clear communication, and ownership of responsibilities across all roles.
+## 🧩 UI Component Patterns
+
+To ensure consistency, reusability, and maintainability across the application, a set of well-structured UI components will be developed. These components will follow a modular design approach using modern frontend frameworks like React.
+
+---
+
+### 📌 Planned Components
+
+---
+
+### 1. 🧭 Navbar
+
+**Purpose:**  
+Provides site-wide navigation and essential user actions.
+
+**Structure:**
+- Logo (linked to home)
+- Search bar (for property search)
+- User navigation (Login/Signup or Profile dropdown)
+- Hamburger menu (for mobile responsiveness)
+
+**Features:**
+- Sticky top bar
+- Responsive behavior on different screen sizes
+- Dropdown menu for logged-in users
+
+---
+
+### 2. 🏡 Property Card
+
+**Purpose:**  
+Displays a snapshot of property listings in a grid or list view.
+
+**Structure:**
+- Property image thumbnail
+- Title and location
+- Price per night
+- Rating stars and review count
+- Favorite/like button
+
+**Features:**
+- Hover effect for quick detail preview
+- Responsive layout for mobile and desktop
+- Clickable to navigate to detailed view
+
+---
+
+### 3. 🔻 Footer
+
+**Purpose:**  
+Offers navigational links and site-wide information at the bottom of each page.
+
+**Structure:**
+- Site links (About, Help, Terms, Privacy)
+- Company information
+- Social media icons
+- Copyright
+
+**Features:**
+- Mobile-friendly column layout
+- Dark/light theme adaptability
+
+---
+
+> 🧱 These components will be designed to be reusable, responsive, and easily maintainable using consistent styling, props, and layout logic.
 
 
 > 
